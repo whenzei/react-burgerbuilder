@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built to learn more about the React and Redux frameworks. It is a simple burger builder application.
 
 ## Available Scripts
 
